@@ -2,11 +2,11 @@
 using namespace std;
 int main (){
     int a,b,c;
-    Cout<<"Enter the First number : ";
+    cout<<"Enter the First number : ";
     cin>>a;
     cout<<"Enter the Second number : ";
     cin>>b;
     c=a+b;
     cout<<c;
-    return 0();
+    return 0;
 }
