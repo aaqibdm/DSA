@@ -8,7 +8,8 @@ int main(){
     if(a>b){
         cout<<"a is max";
     }
-    else if(a<b)
+    
+    else if (a<b)
     {
         cout<<"b is max";
     }
